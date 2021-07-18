@@ -3,7 +3,7 @@
     "path": "~/Downloads/prueba2/codes.R",
     "project_path": "codes.R",
     "type": "r_source",
-    "hash": "2088911950",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1626572116451.0,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1626572736,
+    "lastKnownWriteTime": 1626572825,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1626572736865,
+    "last_content_update": 1626572825,
     "read_only": false,
     "read_only_alternatives": []
 }
