@@ -3,7 +3,7 @@
     "path": "~/Downloads/prueba2/codes.R",
     "project_path": "codes.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2088911950",
     "contents": "",
     "dirty": false,
     "created": 1626572116451.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,18",
+        "cursorPosition": "3,5",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1626572465,
+    "lastKnownWriteTime": 1626572736,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1626572465,
+    "last_content_update": 1626572736865,
     "read_only": false,
     "read_only_alternatives": []
 }
